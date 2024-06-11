@@ -4,7 +4,7 @@ addEventListener("fetch", (event) => {
 });
 
 const routes = {
-  "reg.cf.so": "https://registry-1.docker.io",
+  "dcfp.286866932.workers.dev": "https://registry-1.docker.io",
   "quay.libcuda.so": "https://quay.io",
   "gcr.libcuda.so": "https://gcr.io",
   "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
