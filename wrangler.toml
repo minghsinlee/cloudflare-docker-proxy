@@ -1,4 +1,4 @@
-name = "dicfp"
+name = "dcfp"
 workers_dev = true
 main = "src/index.js"
 compatibility_date = "2021-12-07"
