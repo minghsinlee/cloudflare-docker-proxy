@@ -1,4 +1,4 @@
-name = "cloudflare-docker-proxy"
+name = "dicfp"
 workers_dev = true
 main = "src/index.js"
 compatibility_date = "2021-12-07"
@@ -17,4 +17,4 @@ TARGET_UPSTREAM=""
 [env.dev.vars]
 MODE="debug"
 LOCAL_ADDRESS="http://192.168.10.102:8787"
-TARGET_UPSTREAM="https://registry-1.docker.io"
+TARGET_UPSTREAM="https://registry-1.docker.io"  
